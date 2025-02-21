@@ -120,6 +120,6 @@ XCTAssertTrue(element.waitForExistence(timeout: 5), "Element not found!")
 
 Cmd + Shift + K  # Clean build folder
 Cmd + B  # Rebuild project
-Conclusion
+**Conclusion**
 
 Following the steps in this guide, you can efficiently run XCUI tests for the Apple News app on a simulator. For debugging failed tests, use Xcode’s test report logs and screenshots.
